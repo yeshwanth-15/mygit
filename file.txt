@@ -6,7 +6,3 @@ have a nice day and enjoy your vacation
 
 this was your first day of accessing github
 
-now lets make a change in both local and remote repository and then try push and pull from both
-
-
-now lets see what's gonna happen 
