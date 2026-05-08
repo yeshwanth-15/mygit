@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 2
 3
@@ -8,3 +9,12 @@
 8
 9
 0
+=======
+Last summer, I visited the serene countryside of Assam. 
+
+The lush green tea gardens, the sound of exotic birds, and the warm hospitality of the locals made the trip unforgettable.
+
+During the evenings, I enjoyed drinking local tea while watching the sun set behind the distant hills.
+
+I left with a renewed sense of peace and a desire to return soon.
+>>>>>>> refs/remotes/origin/master
