@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Last summer, I visited the serene countryside of Assam. 
 
@@ -9,3 +10,6 @@ I left with a renewed sense of peace and a desire to return soon.
 
 
 lets make a small change
+=======
+hello yeshwanth
+>>>>>>> parent of 46ad6e2 (welcome note)
